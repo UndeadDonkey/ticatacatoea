@@ -1,0 +1,10 @@
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    border: black solid 1px;
+    height: 110px;
+    width: 150px;
+}
